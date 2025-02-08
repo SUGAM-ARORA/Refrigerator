@@ -1,9 +1,9 @@
-# 🧊 Smart Refrigerator Web Application
+# 🧊 Welcome to Refrigerator - Effortless Inventory Management!
 
 A sleek and user-friendly web application for managing refrigerator inventory effortlessly. The application enables users to add, track, and manage food items in their refrigerator, ensuring minimal waste and optimized grocery shopping.
 
-![Application Screenshot](./path-to-your-image.png)  
-*Screenshot of the Smart Refrigerator in action.*
+![image](https://github.com/user-attachments/assets/795e3fd5-3971-4fdd-b967-67117079fc01)
+
 
 ---
 
@@ -92,10 +92,25 @@ We welcome contributions to improve the application! To get started:
 
 ---
 
-## 📞 Contact
-For queries or support, reach out to:
-- **Name**: Sugam Arora
-- **Email**: sugam.arora23@gmail.com
-- **GitHub**: https://github.com/SUGAM-ARORA
+## 🧑‍💼 Maintainers
+
+<div>
+<table>
+<tr>
+<td align="center"><a href="https://github.com/SUGAM-ARORA"><img src="https://github.com/SUGAM-ARORA/UniCollab/assets/96546088/09d60ee5-8215-4327-808f-4edf119370b6" width=150px height=150px /></a></br> <h4 style="color:cyan;">Sugam Arora</h4>
+ <a href="https://www.linkedin.com/in/sugamarora23/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
+ <a href="https://github.com/SUGAM-ARORA"><img src="https://img.icons8.com/fluency/2x/github.png" width="32px" height="32px"></img></a>
+
+   </td>
+<td align="center"><https://github.com/Ojas-Arora"><img src="https://media.licdn.com/dms/image/v2/D5603AQF-0oeQKjHUGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731090529812?e=1740614400&v=beta&t=urY8EklFDUSFuxKUQtHCq6eK8inuueVUkFH1u9wypQM" width=150px height=150px /></a></br> <h4 style="color:cyan;">Ojas Arora</h4>
+ <a href="https://www.linkedin.com/in/ojasarora14/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
+ <a href="https://github.com/Ojas-Arora"><img src="https://img.icons8.com/fluency/2x/github.png" width="32px" height="32px"></img></a>
+   </td>
+</tr>
+
+</table>
+
+</div>
+
 
 ---
