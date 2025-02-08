@@ -1,29 +1,23 @@
-# Welcome to UniCollab - Where Collaboration Fuels Innovation!
+# Welcome to Refrigerator - Effortless Inventory Management!
 
-## Introduction
+A sleek and user-friendly web application for managing refrigerator inventory effortlessly. The application enables users to add, track, and manage food items in their refrigerator, ensuring minimal waste and optimized grocery shopping.
 
-UniCollab is not just a platform; it's a community-driven ecosystem that empowers students to showcase their projects, collaborate with peers, and dive deep into the world of innovation. Whether you're looking to share your latest project, explore cutting-edge creations, or simply connect with like-minded individuals, UniCollab is the place to be.
+# Key Features
 
-## Getting Started
+**Add Food Items**: Quickly and easily add food items to your inventory.
 
-### With docker
-- For run the App write the following command
-```bash
-docker build -t your-image-name .
-docker push your-image-name
+**Track Expiry Dates**: Keep track of expiry dates to minimize food waste.
 
-```
-- For Deploy the App Locally with kubernetes
+**Search and Filter**: Find specific items using search and filter functionality.
 
-1. Add the image name in deployment.yaml
+**Optimized Grocery Shopping**: Get insights into your inventory to plan better grocery shopping.
 
-2. write the following command to run the app
-```bash
+**User-Friendly Interface**: Intuitive and clean design for seamless user experience.
 
-kubectl apply -f deployment.yaml
-kubectl apply -f service.yaml
+# Getting Started
 
-```
+Follow these instructions to get the project up and running on your local machine.
+
 ### 1. Clone the Repository
 
 First, clone the UniCollab repository to your local machine:
@@ -37,19 +31,19 @@ git clone https://github.com/SUGAM-ARORA/UniCollab.git
 Navigate to the project directory and install the necessary dependencies:
 
 ```bash
-cd UniCollab
+cd Refrigerator
 npm install
 ```
 
 ### 3. Start the Development Server
 
-Launch the development server and explore UniCollab:
+Launch the development server and explore Refrigerator:
 
 ```bash
 npm start
 ```
 
-Open your browser and visit [http://localhost:3000](http://localhost:3000) to experience UniCollab firsthand.
+Open your browser and visit [http://localhost:3000](http://localhost:3000) to experience Refrigerator firsthand.
 
 ### 4. Test the app 
 
@@ -79,17 +73,10 @@ npm eject
 
 Note: This is a one-way operation. Once you eject, you can't go back. This command will remove the single-build dependency from your project, copying all the configuration files and transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them. All commands except eject will still work, but they will point to the copied scripts so you can tweak them. It's important to note that you don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Key Features
-
-- **Project Showcase:** Upload your projects and browse through a diverse range of creations from fellow students. Like and comment to appreciate and provide feedback.
-
-- **Experience Points:** Earn experience points for each project upload and engagement. Climb up the leaderboard and showcase your expertise.
-
-- **Trending Projects:** Stay updated with the latest trends in student innovation. Discover projects that are making waves in your field of interest.
 
 ## How to Contribute
 
-UniCollab thrives on community contributions. Here's how you can get involved:
+Refrigerator thrives on community contributions. Here's how you can get involved:
 
 1. Fork the repository on GitHub.
 2. Clone your forked repository to your local machine.
@@ -134,6 +121,7 @@ UniCollab thrives on community contributions. Here's how you can get involved:
 
 ## Feedback and Support
 
-Your feedback is invaluable to me as I strive to improve UniCollab. Whether you have suggestions, bug reports, or just want to say hello, feel free to reach out to @SUGAM-ARORA or open an issue on GitHub.
+Your feedback is invaluable to me as I strive to improve Refrigerator. Whether you have suggestions, bug reports, or just want to say hello, feel free to reach out to @SUGAM-ARORA @Ojas-Arora or open an issue on GitHub.
 
-Start your journey with UniCollab today and be part of a vibrant community that celebrates innovation!
+Start your journey with Refrigerator today and be part of a vibrant community that celebrates innovation!
+
