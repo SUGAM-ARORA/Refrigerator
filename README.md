@@ -27,7 +27,47 @@ The refrigerator will have the following functionalities to manage products:
 - **Consumption-Based Recommendations**: For example, if milk is about to run out, the system will suggest adding it to the shopping list.
 
 ---
+## 🔄 Tech Stack
 
+Proposed tech stack for project(although you are free to use any other stack outside of these):
+
+1. **Backend:**
+   - Node.js with Express.js for the server 💻
+   - MongoDB for the database (using Mongoose for object modeling) 📊
+   - Firebase Authentication for user authentication and authorization 🔐
+   - Firebase Cloud Functions for serverless backend logic ☁️
+
+2. **Frontend:**
+   - React.js for a dynamic and responsive user interface ⚛️
+   - HTML5, CSS3, JavaScript for elegant and modern design 🎨
+   - Firebase Hosting for fast and secure web hosting 🚀
+   - Firebase Realtime Database for real-time data synchronization 🔥
+
+3. **DevOps & Deployment:**
+   - Continuous Integration/Continuous Deployment (CI/CD): GitLab CI/CD for automated testing and deployment 🔄
+   - Containerization: Docker for efficient and scalable deployment 🐳
+   - Orchestration: Kubernetes for managing containerized applications ⚙️
+
+4. **Cloud Platform:**
+   - Hosting: AWS (Amazon Web Services) for reliable and scalable hosting ☁️
+   - Serverless Computing: AWS Lambda for cost-effective and scalable backend services 🚀
+   - Storage: AWS S3 for secure and scalable storage solutions 📦
+
+5. **Machine Learning & AI:**
+   - Frameworks: TensorFlow and PyTorch for advanced machine learning capabilities 🧠
+   - Libraries: scikit-learn, pandas, NumPy for data manipulation and analysis 📊
+   - Deployment: Docker containers for easy deployment of machine learning models 🐳
+
+6. **Database:**
+   - MongoDB for flexible and scalable NoSQL database solutions 📊
+
+7. **Other Tools and Technologies:**
+   - Websockets for real-time communication and collaboration features 🔄
+   - Security: JWT (JSON Web Tokens) for secure authentication and authorization 🔒
+   - Data Visualization: D3.js or Chart.js for interactive and visually appealing data representation 📊
+   - Testing: Jest for React.js unit testing, Selenium for end-to-end testing 🧪
+
+     
 ## 📚 Evaluation Criteria
 
 - **Correctness**: The program calculates item quantities accurately.
